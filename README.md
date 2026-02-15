@@ -102,7 +102,7 @@ sales → products
 sales → stores
 
 Ensured referential integrity.
-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/758c949d-12df-4236-8ce8-44b81b796bd1" />
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/a5d7ce00-97f5-4445-93a7-e97e19d0907d" />
 <img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/9a87f4a7-0167-4da4-9077-f6cd079fef80" />
 <img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/1a16d4e8-7263-40a2-b925-d28b65b10064" />
 <img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/40deace5-fd96-4b24-8b17-7e663babf67c" />
